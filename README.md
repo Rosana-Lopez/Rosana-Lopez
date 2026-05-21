@@ -5,7 +5,7 @@
 
 **Analista de Dados · Machine Learning · IA Generativa**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rosanalopez-765203219)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rosana-lopez-765203219/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rosanacamposlopez@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-34d399?style=flat-square&logo=vercel&logoColor=black)](https://rosana-lopez.github.io/rosana-portfolio)
 
