@@ -1,5 +1,4 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=34d399&height=120&section=header" width="100%"/>
 
 # Rosana Lopez
@@ -11,7 +10,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-34d399?style=flat-square&logo=vercel&logoColor=black)](https://rosana-lopez.github.io/rosana-portfolio)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=800&color=34D399&center=true&vCenter=true&repeat=true&width=700&lines=Data+Analytics;Machine+Learning;Generative+AI;Python+%7C+scikit-learn+%7C+Pandas;Power+BI+%7C+AWS+%7C+SQL;Data+that+generates+real+impact" alt="skills" />
-
 </div>
 
 ---
@@ -61,8 +59,9 @@ Atualmente desenvolvendo um sistema de análise de crédito bancário com ML, si
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Rosana-Lopez&show_icons=true&hide_border=true&bg_color=08080d&title_color=34d399&icon_color=34d399&text_color=eaeaf4&ring_color=34d399&include_all_commits=true&count_private=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rosana-Lopez&layout=compact&hide_border=true&bg_color=08080d&title_color=34d399&text_color=eaeaf4&langs_count=6)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Rosana-Lopez&show_icons=true&hide_border=true&bg_color=08080d&title_color=34d399&icon_color=34d399&text_color=eaeaf4&ring_color=34d399&include_all_commits=true&count_private=true)
+![Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rosana-Lopez&layout=compact&hide_border=true&bg_color=08080d&title_color=34d399&text_color=eaeaf4&langs_count=6)
+![Streak](https://streak-stats.demolab.com/?user=Rosana-Lopez&hide_border=true&background=08080d&ring=34d399&fire=34d399&currStreakLabel=34d399&sideLabels=eaeaf4&dates=6b7280&currStreakNum=eaeaf4&sideNums=eaeaf4)
 
 </div>
 
